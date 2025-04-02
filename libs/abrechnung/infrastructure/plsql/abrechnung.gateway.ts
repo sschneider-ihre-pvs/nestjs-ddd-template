@@ -1,0 +1,1 @@
+// abrechnung.gateway.ts placeholder
